@@ -1,0 +1,5 @@
+$> git clone https://projects.intra.42.fr/uploads/document/document/1134/aceito eu
+$> cd eu
+$> mkdir eu
+$> cd eu
+$> cp ~/Downloads/aceito ./aceito.txt
